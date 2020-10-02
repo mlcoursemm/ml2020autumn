@@ -27,7 +27,7 @@
 * Обратная связь - по почте mlcoursemm@gmail.com
 * Ну и всегда можно написать в [issues](https://github.com/mlcoursemm/ml2020autumn/issues) :)
 ## <a name="marks" /> Результаты выполнения заданий
-* [Итоговая таблица с результатами]()
+* [Итоговая таблица с результатами](https://docs.google.com/spreadsheets/d/1YKxMMr-FvLnmN_BBigXoxGQye55lmmv7edD_NfNiC8E/edit?usp=sharing)
 ## <a name="program" /> Программа курса 
 | Номер         | Дата          | Лекция                                            | Семинар                                 |
 | ------------- | ------------- | -------------                                     | -------------                           |   
