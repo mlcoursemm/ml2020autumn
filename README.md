@@ -10,6 +10,7 @@
 * [Список литературы](#lit)
 * [Полезные ссылки](#links)
 ## <a name="news" /> Новости
+(2020-11-03) Выложены пятая [лекция](./lectures/lecture05-lin_class.pdf) и первый [семинар](./seminars/seminar05-lin_class.pdf) (с [кодом1](./seminars/seminar05-lin_class.ipynb), [кодом2](./seminars/seminar05-class_metrics.ipynb))
 * (2020-10-27) Выложены четвертая [лекция](./lectures/lecture04-linreg.pdf) и четвёртый [семинар](./seminars/seminar04_linear_regression_v1.ipynb)
 * (2020-10-27) Выложено [первое практическое задание](./assignments/programming01). Дедлайн: 14 ноября 23:59:59 (после этого срока баллы будут умножаться на 0.5).
 Отправлять на почту курса mlcoursemm@gmail.com с темой [ML2020:coding01]
