@@ -10,13 +10,15 @@
 * [Список литературы](#lit)
 * [Полезные ссылки](#links)
 ## <a name="news" /> Новости
+* (2020-11-10) Выложено [второе теоретическое задание](./assignments/theory02.pdf). Дедлайн: 28 ноября 23:59:59 (после этого срока баллы будут умножаться на 0.5).
+Отправлять на почту курса mlcoursemm@gmail.com с темой [ML2020A:theory02]
 * (2020-11-10) Выложены шестая [лекция](./lectures/lecture06-svm.pdf) и шестой [семинар](./seminars/seminar06-svm.pdf) (с [кодом](./seminars/seminar06-svm.ipynb))
 * (2020-11-03) Выложены пятая [лекция](./lectures/lecture05-lin_class.pdf) и пятый [семинар](./seminars/seminar05-lin_class.pdf) (с [кодом1](./seminars/seminar05-lin_class.ipynb), [кодом2](./seminars/seminar05-class_metrics.ipynb))
 * (2020-10-27) Выложены четвертая [лекция](./lectures/lecture04-linreg.pdf) и четвёртый [семинар](./seminars/seminar04_linear_regression_v1.ipynb)
 * (2020-10-27) Выложено [первое практическое задание](./assignments/programming01). Дедлайн: 14 ноября 23:59:59 (после этого срока баллы будут умножаться на 0.5).
-Отправлять на почту курса mlcoursemm@gmail.com с темой [ML2020:coding01]
+Отправлять на почту курса mlcoursemm@gmail.com с темой [ML2020A:coding01]
 * (2020-10-20) Выложено [первое теоретическое задание](./assignments/theory01.pdf). Дедлайн: 07 ноября 23:59:59 (после этого срока баллы будут умножаться на 0.5).
-Отправлять на почту курса mlcoursemm@gmail.com с темой [ML2020:theory01]
+Отправлять на почту курса mlcoursemm@gmail.com с темой [ML2020A:theory01]
 * (2020-10-20) Выложены третья  [лекция](./lectures/lecture03_probability.pdf) и третий [семинар](./seminars/seminar03_naive.pdf)
 * (2020-10-13) Выложены вторая  [лекция](./lectures/lecture02-knn.pdf) и код со второго семинара
 * (2020-10-07) Выложены первая [лекция](./lectures/lecture01-intro_cv_bv.pdf) и первый [семинар](./seminars/seminar01-intro_cv_bv.pdf) (с [кодом](./seminars/seminar01-intro_cv_bv.ipynb))
