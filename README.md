@@ -10,6 +10,7 @@
 * [Список литературы](#lit)
 * [Полезные ссылки](#links)
 ## <a name="news" /> Новости
+* (2020-12-01) Выложены девятая [лекция](./lectures/lecture09-boosting.pdf) и девятый [семинар](./seminars/seminar09-boosting.pdf) (с [кодом](./seminars/seminar09-ensembles.ipynb))
 * (2020-11-24) Выложены восьмая [лекция](./lectures/lecture08-ensembles.pdf) и восьмой [семинар](./seminars/seminar08-svr.pdf) (с [кодом](./seminars/seminar08-svr.ipynb))
 * (2020-11-17) Выложена ссылка на [соревнование](https://www.kaggle.com/t/db61011c72e84c2dab7e792bd2499aae)
 * (2020-11-10) Выложено [второе теоретическое задание](./assignments/theory02.pdf). Дедлайн: 28 ноября 23:59:59 (после этого срока баллы будут умножаться на 0.5).
