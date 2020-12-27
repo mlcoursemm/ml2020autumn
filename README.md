@@ -71,4 +71,4 @@
 ### Введение в машинное обучение
 * Homemade Machine Learning: [github repo](https://github.com/trekhleb/homemade-machine-learning)
 * Machine learning: [Курс](https://www.coursera.org/learn/machine-learning) Andrew Ng на площадке https://www.coursera.org
-
+ 
