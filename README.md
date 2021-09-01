@@ -150,5 +150,5 @@ The course is read on Tuesdays at 18:00 (theory) and 19:30 (practice) online at 
 * Playground and Cheatsheet for Learning Python: [github repo](https://github.com/trekhleb/learn-python)
 ### Introduction to machine learning
 * Homemade Machine Learning: [github repo](https://github.com/trekhleb/homemade-machine-learning)
-* Machine learning: [cCourse](https://www.coursera.org/learn/machine-learning) Andrew Ng on the site https://www.coursera.org
+* Machine learning: [Course](https://www.coursera.org/learn/machine-learning) Andrew Ng on the site https://www.coursera.org
  
