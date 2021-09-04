@@ -90,33 +90,33 @@
 * [Bibliography](#lit1)
 * [Useful links](#links1)
 ## <a name="news1" /> News
-* (2020-12-01) Posted ninth [lecture] (./lectures/lecture09-boosting.pdf) and ninth [seminar](./seminars/seminar09-boosting.pdf) (with [code](./seminars/seminar09-ensembles.ipynb))
-* (2020-11-24) Posted eighth [lecture](./lectures/lecture08-ensembles.pdf) and eighth [seminar](./seminars/seminar08-svr.pdf) (with [code](./seminars/seminar08-svr.ipynb))
-* (2020-11-17) Posted link to [competition](https://www.kaggle.com/t/db61011c72e84c2dab7e792bd2499aae)
-* (2020-11-10) Posted [вsecond theoretical task](./assignments/theory02.pdf). Deadline: 28 November 23:59:59 (after this deadline, points will be multiplied by 0.5).
-Email the course mlcoursemm@gmail.com with a subject [ML2020A:theory02]
-* (2020-11-10) Posted sixth [lecture](./lectures/lecture06-svm.pdf) and sixth [seminar](./seminars/seminar06-svm.pdf) (with [code](./seminars/seminar06-svm.ipynb))
-* (2020-11-03) Posted fifth [lecture](./lectures/lecture05-lin_class.pdf) and fifth [seminar](./seminars/seminar05-lin_class.pdf) (with [code](./seminars/seminar05-lin_class.ipynb), [code2](./seminars/seminar05-class_metrics.ipynb))
-* (2020-10-27) Posted fourth [lecture](./lectures/lecture04-linreg.pdf) and fourth [seminar](./seminars/seminar04_linear_regression_v1.ipynb)
-* (2020-10-27) Posted [first practical task](./assignments/programming01). Deadline: November 14th 23:59:59 (after this deadline, points will be multiplied by 0.5).
-Email the course mlcoursemm@gmail.com with a subject [ML2020A:coding01]
-* (2020-10-20) Posted [first theoretical task](./assignments/theory01.pdf). Deadline: 07 November 23:59:59 (after this deadline, points will be multiplied by 0.5).
-Email the course mlcoursemm@gmail.com with a subject [ML2020A:theory01]
-* (2020-10-20) Posted third  [lecture](./lectures/lecture03_probability.pdf) and third [seminar](./seminars/seminar03_naive.pdf)
-* (2020-10-13) Posted second  [lecture](./lectures/lecture02-knn.pdf) and the code from the second workshop
-* (2020-10-07) Posted first [lecture](./lectures/lecture01-intro_cv_bv.pdf) and first [seminar](./seminars/seminar01-intro_cv_bv.pdf) (with [code](./seminars/seminar01-intro_cv_bv.ipynb))
+* (2020-12-01) Uploaded 9th [lecture] (./lectures/lecture09-boosting.pdf) and 9th [seminar](./seminars/seminar09-boosting.pdf) (with [code](./seminars/seminar09-ensembles.ipynb))
+* (2020-11-24) Uploaded 8th [lecture](./lectures/lecture08-ensembles.pdf) and 9th [seminar](./seminars/seminar08-svr.pdf) (with [code](./seminars/seminar08-svr.ipynb))
+* (2020-11-17) Uploaded link to [competition](https://www.kaggle.com/t/db61011c72e84c2dab7e792bd2499aae)
+* (2020-11-10) Uploaded [second theoretical task](./assignments/theory02.pdf). Deadline: 28 November 23:59:59 (after this deadline, points will be multiplied by 0.5).
+Send an e-mail the course mlcoursemm@gmail.com with a subject [ML2020A:theory02]
+* (2020-11-10) Uploaded 6th [lecture](./lectures/lecture06-svm.pdf) and sixth [seminar](./seminars/seminar06-svm.pdf) (with [code](./seminars/seminar06-svm.ipynb))
+* (2020-11-03) Uploaded 5th [lecture](./lectures/lecture05-lin_class.pdf) and fifth [seminar](./seminars/seminar05-lin_class.pdf) (with [code](./seminars/seminar05-lin_class.ipynb), [code2](./seminars/seminar05-class_metrics.ipynb))
+* (2020-10-27) Uploaded 4th [lecture](./lectures/lecture04-linreg.pdf) and fourth [seminar](./seminars/seminar04_linear_regression_v1.ipynb)
+* (2020-10-27) Uploaded [first practical task](./assignments/programming01). Deadline: November 14th 23:59:59 (after this deadline, points will be multiplied by 0.5).
+Send to the course email mlcoursemm@gmail.com with a subject title [ML2020A:coding01]
+* (2020-10-20) Uploaded [first theoretical task](./assignments/theory01.pdf). Deadline: 07 November 23:59:59 (after this deadline, points will be multiplied by 0.5).
+Send to the course email mlcoursemm@gmail.com with a subject title [ML2020A:theory01]
+* (2020-10-20) Uploaded 3rd  [lecture](./lectures/lecture03_probability.pdf) and 3rd [seminar](./seminars/seminar03_naive.pdf)
+* (2020-10-13) Uploaded 2nd  [lecture](./lectures/lecture02-knn.pdf) and the code from the 2nd seminar
+* (2020-10-07) Uploaded 1st [lecture](./lectures/lecture01-intro_cv_bv.pdf) and 1st [seminar](./seminars/seminar01-intro_cv_bv.pdf) (with [code](./seminars/seminar01-intro_cv_bv.ipynb))
 * (2020-09-29) This repository has been created
-* The first lecture will take place on Tuesday, October 6, at 18:00 online at Zoom (link will be sent to the appropriate channel)
-* The first seminar will take place on Tuesday, October 6, at 19:30 online at Zoom (link will be sent to the appropriate channel)
+* The first lecture will take place on Tuesday, October 6, at 18:00 online at Zoom (link will be sent to the corresponding channel)
+* The first seminar will take place on Tuesday, October 6, at 19:30 online at Zoom (link will be sent to the corresponding channel)
 * In addition to the lectures, there will also be seminars that will discuss practical issues of machine learning. Seminars will be held immediately after the lectures.
 ## <a name="info1" /> Short info
-In the fall semester of 2020 at the Faculty of Mechanics and Mathematics of Moscow State University. MV Lomonosov Moscow State University begins reading a new special course at the student's choice, dedicated to classical machine learning algorithms (theory + practice).
+In the fall semester of 2020 at the Faculty of Mechanics and Mathematics of Lomonosov Moscow State University begins reading a new special course of the student's choice, dedicated to classical machine learning algorithms (theory + practice).
 
 The course will be taught on the basis of the Department of [Mathematical Theory of Intelligent Systems](http://intsys.msu.ru) under the guidance of Doctor of Physical and Mathematical Sciences, Professor [Babin D.N.](http://intsys.msu.ru/staff/babin/) 
 
-The course will be delivered by Ph.D. Petiushko A.A. and Ph.D. Ivanov I.E.
+The course will be delivered by Ph.D. [Petiushko A.A.](https://petiushko.info) and Ph.D. Ivanov I.E.
 ## <a name="ww1" /> Time and place
-The course is read on Tuesdays at 18:00 (theory) and 19:30 (practice) online at Zoom.
+The lessons are to be taught on Tuesdays at 18:00 (theory) and 19:30 (practice) online at Zoom.
 ## <a name="feedback1" /> Communication with teachers
 * [Telegram-channel](https://t.me/joinchat/AAAAAEUmx5cJLOdLXsOt8g), in which all important news will appear
 * Feedback - by email mlcoursemm@gmail.com
@@ -126,15 +126,15 @@ The course is read on Tuesdays at 18:00 (theory) and 19:30 (practice) online at 
 ## <a name="program1" /> Course program
 | Number        | Date          | Lecture                                           | Seminar                                 | Hometask           |
 | ------------- | ------------- | -------------                                     | -------------                           | ------------- |
-| 01            | 06.10.2020    | Introductory lecture. Cross-validation, the bias-scatter dilemma | Introductory lesson. Cross-validation, the bias-scatter dilemma | |
+| 01            | 06.10.2020    | Introductory lecture. Cross-validation, the bias-variance tradeoff | Introductory lesson. Cross-validation, the bias-variance tradeoff | |
 | 02            | 13.10.2020    | Nonparametric classification and regression methods| KNN algorithms, k-means clustering | |
 | 03            | 20.10.2020    | Probabilistic approach to classification              | Naive Bayesian Classifier | Theory1 |
 | 04            | 27.10.2020    | Regression and quality assessment                       | Linear regression. | Practice1|
 | 05            | 03.11.2020    | Linear classifiers                          | Classifier quality metrics | |
 | 06            | 10.11.2020    | SVM                                               | Building SVM | Theory2 |
-| 07            | 17.11.2020    | Decisive trees. Random forest                   | Working with missing values. Feature selection | Competition |
-| 08            | 24.11.2020    | Ensembles                                          | SVR | |
-| 09            | 01.12.2020    | Ensembles                                          | An overview of ensemble methods in sklearn | |
+| 07            | 17.11.2020    | Decision trees. Random forest                   | Working with missing values. Feature selection | Competition |
+| 08            | 24.11.2020    | Ensembles 1                                         | SVR | |
+| 09            | 01.12.2020    | Ensembles 2                                         | An overview of ensemble methods in sklearn | |
 | 10            | 08.12.2020    | Dimension reduction methods                    | Analysis of the course homework           | |
 
 ## <a name="lit1" /> Bibliography
@@ -143,12 +143,12 @@ The course is read on Tuesdays at 18:00 (theory) and 19:30 (practice) online at 
 2. Bishop, C.M. [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf), Springer, 2006.
 ## <a name="links1" /> Useful links
 ### Cheat sheets
-* Quick reference information onPython, NumPy, SciPy, SciKit-learn, Pandas, MatPlotLib, Jupyter Notebook: see in [folder with documentation](https://github.com/mlcoursemm/mlcoursemm2019spring/tree/master/cheatsheets) course 2019 year
+* Quick reference information on Python, NumPy, SciPy, SciKit-learn, Pandas, MatPlotLib, Jupyter Notebook: see in [folder with documentation](https://github.com/mlcoursemm/mlcoursemm2019spring/tree/master/cheatsheets) course 2019 year
 ### Introduction to Python
 * Python Programming in 15 min: [Part1](https://towardsdatascience.com/python-programming-in-15-min-part-1-3ad2d773834c), [Part2](https://towardsdatascience.com/python-programming-in-15-min-part-2-480f78713544), [Part3](https://towardsdatascience.com/python-programming-in-15-min-part-3-ce882f9ab9b2)
-* Python Programmin - A Modern Approach: [Code, notebooks and slides](https://github.com/vamsi/python-programming-modern-approach)
+* Python Programming - A Modern Approach: [Code, notebooks and slides](https://github.com/vamsi/python-programming-modern-approach)
 * Playground and Cheatsheet for Learning Python: [github repo](https://github.com/trekhleb/learn-python)
 ### Introduction to machine learning
 * Homemade Machine Learning: [github repo](https://github.com/trekhleb/homemade-machine-learning)
-* Machine learning: [Course](https://www.coursera.org/learn/machine-learning) Andrew Ng on the site https://www.coursera.org
+* Machine learning: [Course](https://www.coursera.org/learn/machine-learning) by Andrew Ng on the site https://www.coursera.org
  
