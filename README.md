@@ -114,7 +114,7 @@ In the fall semester of 2020 at the Faculty of Mechanics and Mathematics of Lomo
 
 The course will be taught on the basis of the Department of [Mathematical Theory of Intelligent Systems](http://intsys.msu.ru) under the guidance of Doctor of Physical and Mathematical Sciences, Professor [Babin D.N.](http://intsys.msu.ru/staff/babin/) 
 
-The course will be delivered by Ph.D. [Petiushko A.A.](https://petiushko.info) and Ph.D. Ivanov I.E.
+The course will be taught by Ph.D. [Petiushko A.A.](https://petiushko.info) and Ph.D. Ivanov I.E.
 ## <a name="ww1" /> Time and place
 The lessons are to be taught on Tuesdays at 18:00 (theory) and 19:30 (practice) online at Zoom.
 ## <a name="feedback1" /> Communication with teachers
